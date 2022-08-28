@@ -26,6 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](/_site/assets/img/profile.png)
 ```
 
+![Image](/_site/assets/img/profile.png)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
