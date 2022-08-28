@@ -1,9 +1,9 @@
-### What I'm working on
-
-[PostEra](https://postera.ai)
-
-### Things I'm interested in
+### Interests
 
 [Fight Aging](https://www.fightaging.org/)
 
 [Z Cash](https://z.cash)
+
+### Contact
+
+DM me on twitter!
