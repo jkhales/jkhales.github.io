@@ -10,6 +10,8 @@ In a former life I was a [mathematician](https://www.mathgenealogy.org/id.php?id
 
 [Z Cash](https://z.cash)
 
+[Gwern](https://www.gwern.net/)
+
 ### Contact
 
 DM me on [twitter](https://twitter.com/@jayjayhales)!
