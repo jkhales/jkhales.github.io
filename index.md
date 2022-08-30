@@ -12,6 +12,10 @@ In a former life I was a [mathematician](https://www.mathgenealogy.org/id.php?id
 
 [Gwern](https://www.gwern.net/)
 
+[Progress](https://patrickcollison.com/progress)
+
+[pg](http://www.paulgraham.com/articles.html)
+
 ### Contact
 
 DM me on [twitter](https://twitter.com/@jayjayhales)!
