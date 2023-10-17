@@ -16,6 +16,8 @@ In a former life I was a [mathematician](https://www.mathgenealogy.org/id.php?id
 
 [pg](http://www.paulgraham.com/articles.html)
 
+[techno-optimism](https://a16z.com/the-techno-optimist-manifesto/)
+
 ### Contact
 
 DM me on [twitter](https://twitter.com/@jayjayhales)!
