@@ -14,7 +14,7 @@ My [blog](https://jonathankobayashihales.substack.com).
 
 [gwern](https://www.gwern.net/)
 
-[orogress](https://patrickcollison.com/progress)
+[progress](https://patrickcollison.com/progress)
 
 [pg](http://www.paulgraham.com/articles.html)
 
