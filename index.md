@@ -4,15 +4,17 @@ Software Engineer working at [PostEra.ai](https://postera.ai) to accelerate smal
 
 In a former life I was a [mathematician](https://www.mathgenealogy.org/id.php?id=240463).
 
+
+
 ### Interests/Blogs
 
-[Fight Aging](https://www.fightaging.org/)
+[fight aging](https://www.fightaging.org/)
 
-[Z Cash](https://z.cash)
+[z-cash](https://z.cash)
 
-[Gwern](https://www.gwern.net/)
+[gwern](https://www.gwern.net/)
 
-[Progress](https://patrickcollison.com/progress)
+[orogress](https://patrickcollison.com/progress)
 
 [pg](http://www.paulgraham.com/articles.html)
 
@@ -20,4 +22,4 @@ In a former life I was a [mathematician](https://www.mathgenealogy.org/id.php?id
 
 ### Contact
 
-DM me on [twitter](https://twitter.com/@jayjayhales)!
+Find me on [twitter](https://twitter.com/@jayjayhales)!
