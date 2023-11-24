@@ -4,7 +4,7 @@ Software Engineer working at [PostEra.ai](https://postera.ai) to accelerate smal
 
 In a former life I was a [mathematician](https://www.mathgenealogy.org/id.php?id=240463).
 
-
+My [blog](https://jonathankobayashihales.substack.com).
 
 ### Interests/Blogs
 
